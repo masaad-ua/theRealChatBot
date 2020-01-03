@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import {View, Text} from 'react-native';
 import SignIn from './components/auth/SignIn'
-
+import Hello from './components/Hello'
 class Root extends Component {
     static propTypes = {
     	
